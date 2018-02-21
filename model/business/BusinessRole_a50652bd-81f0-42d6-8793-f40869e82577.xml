@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stakeholders"
-    id="a50652bd-81f0-42d6-8793-f40869e82577"/>
+    name="Stakeholder"
+    id="a50652bd-81f0-42d6-8793-f40869e82577"
+    documentation="Alle stakeholders worden voldoende betrokken in de voorbereiding van een i-project.&#xD;&#xA;Bijv. een architect die qua architectuur adviseert en toetst. Het afstemmingsoverleg hoeft om die reden niet op architectuuraspecten te toetsen."/>
