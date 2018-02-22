@@ -17,8 +17,8 @@
           href="AssignmentRelationship_f39e24f4-77b6-4629-bad7-ccd8cc539085.xml#f39e24f4-77b6-4629-bad7-ccd8cc539085"/>
     </sourceConnections>
     <bounds
-        x="111"
-        y="48"
+        x="156"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -38,8 +38,8 @@
           href="AssignmentRelationship_a85066f0-07e2-46e2-82fd-e1ba853e984c.xml#a85066f0-07e2-46e2-82fd-e1ba853e984c"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="48"
+        x="309"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -59,8 +59,8 @@
           href="AssignmentRelationship_3f6ed09e-e7b6-4602-8967-5a667db6e9c3.xml#3f6ed09e-e7b6-4602-8967-5a667db6e9c3"/>
     </sourceConnections>
     <bounds
-        x="423"
-        y="48"
+        x="468"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -72,8 +72,8 @@
       id="5069461d-98d6-4df3-9db8-638118084a10"
       targetConnections="ebd153e2-94c8-45ac-975c-28324f67bb4b c5fd5f88-a91c-4321-a036-36ea41b62d0f c7a87caa-824f-4c50-9c75-86fa692372bd 4a08c3f1-8cb0-40a5-880e-4a7437c69a51">
     <bounds
-        x="264"
-        y="144"
+        x="309"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -117,8 +117,8 @@
           href="ServingRelationship_8a1f8063-8cea-436d-b5f6-aba33a6d01cd.xml#8a1f8063-8cea-436d-b5f6-aba33a6d01cd"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="264"
+        x="309"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -153,8 +153,8 @@
           href="FlowRelationship_fc82eb35-69af-4588-9e5c-974e15fc1b00.xml#fc82eb35-69af-4588-9e5c-974e15fc1b00"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="372"
+        x="309"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement
@@ -166,8 +166,8 @@
       id="2f1907d6-b246-4248-b2e8-fa142af11182"
       targetConnections="0e4c2d77-13fb-4c7b-b258-8f1d3dd6f52a">
     <bounds
-        x="99"
-        y="372"
+        x="144"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement
@@ -179,8 +179,8 @@
       id="7bf2639b-291d-43b0-9c0b-dcc617f89bad"
       targetConnections="779cf9b8-038c-4384-b353-ea0ce081f8b7">
     <bounds
-        x="99"
-        y="264"
+        x="144"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
