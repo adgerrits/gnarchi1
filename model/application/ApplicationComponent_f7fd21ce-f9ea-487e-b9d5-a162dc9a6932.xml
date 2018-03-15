@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantgeleidingcomponent"
+    id="f7fd21ce-f9ea-487e-b9d5-a162dc9a6932"
+    documentation="Component voor het ondersteunen van klanten bij het vinden van de gewenste dienstverlening.">
+  <properties
+      key="Toelichting"
+      value="De component helpt klanten om, eventueel stapsgewijs, de gewenste dienstverlening te vinden. Het component kan volledig digitaal diensten leveren (bijv. via een vraag-antwoordpatroon binnen de gemeentelijke website) of gebruik maken van een combinatie van fysieke en digitale voorzieningen (bijv. een zelfbedieningszuil)."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="4fb80905-d79b-4cde-aeab-7459fec668b1"/>
+</archimate:ApplicationComponent>

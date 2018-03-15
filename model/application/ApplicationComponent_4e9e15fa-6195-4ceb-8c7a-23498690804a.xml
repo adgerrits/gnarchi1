@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document registratie component"
+    id="4e9e15fa-6195-4ceb-8c7a-23498690804a"
+    documentation="Component voor opslag en ontsluiting van documenten en daarbij behorende metadata.">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="0e99ec6c-283a-4ec9-8efa-e11468e6b878"/>
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het opslaan en naar andere applicaties ontsluiten van informatieobjecten (in de 'volksmond': documenten). De component slaat deze gestructureerd en voorzien van de benodigde metadata op en stelt applicaties in staat deze te wijzigen, te verwijderen en aan de hand van een aantal zoekcriteria op te vragen. Ontsluiting vindt bij voorkeur plaats volgens koppelvlakspecificaties zoals CMIS conform de door KING vastgestelde Zaak- en Documentservices."/>
+</archimate:ApplicationComponent>

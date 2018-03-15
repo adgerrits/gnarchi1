@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geleiden van klanten"
+    id="4b6991f9-7200-4349-91c0-d67555f0ab0c"
+    documentation="Functionaliteit voor het stapsgewijs leiden van klanten naar het juiste product.">
+  <properties
+      key="GEMMA type"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="b2738bde-8c74-11e5-1099-005056a83192"/>
+</archimate:ApplicationFunction>

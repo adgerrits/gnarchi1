@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren en delen van zaaktypen"
+    id="3dc7ddb9-78a6-4114-b3ea-2ea28832e9f6"
+    documentation="Functionaliteit voor het opslaan en naar andere applicaties ontsluiten van zaaktypegegevens.">
+  <properties
+      key="GEMMA type"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="70e22ce7-5be7-11e2-7023-0050568a1905"/>
+</archimate:ApplicationFunction>

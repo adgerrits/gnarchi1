@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaakregistratiecomponent"
+    id="281af365-9f00-456c-9313-31d680fc7855"
+    documentation="Component voor opslag en ontsluiting van zaakgegevens.">
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het opslaan en het naar andere applicaties ontsluiten van gegevens over alle gemeentelijke zaken, van elk type. Opslag vindt plaats conform het RGBZ waarin objecten, gegevens daarvan en onderlinge relaties zijn beschreven. Het bevat echter niet alle gegevens uit het RGBZ: documenten worden opgeslagen in het documentenregistratiecomponent, medewerkergegevens in de medewerkerregistratiecomponent, etc."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="a97b6545-d5a7-485d-9b13-3ce22db5b9cf"/>
+</archimate:ApplicationComponent>

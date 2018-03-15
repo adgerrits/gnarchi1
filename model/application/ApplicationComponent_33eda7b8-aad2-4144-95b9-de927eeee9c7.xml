@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekmachine component"
+    id="33eda7b8-aad2-4144-95b9-de927eeee9c7"
+    documentation="Component voor het zoeken van content aan de hand van opgegeven zoekcriteria.">
+  <properties
+      key="Toelichting"
+      value="De componet kan bijv. gebruikt worden om op een gemeentelijke website bezoekers de gelegenheid te geven om via zoekcriteria te zoeken naar bepaalde content."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="8f74eb85-3980-4fee-87c7-6113d85092bf"/>
+</archimate:ApplicationComponent>
