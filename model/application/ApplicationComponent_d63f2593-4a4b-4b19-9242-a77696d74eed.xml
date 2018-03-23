@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitregistratie-component"
+    id="d63f2593-4a4b-4b19-9242-a77696d74eed"
+    documentation="Component voor de opslag en ontsluiting van identiteiten van gebruikers en de rechten die zij hebben.">
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het opslaan en naar andere applicaties ontsluiten van Identiteitsgegevens. De component legt vast welke identiteiten een gebruiker kent en welke gebruiksrechten voor objecten, toegangsrechten en regels hieraan gekoppeld zijn. Het component wordt gebruikt in situaties waarin vastgesteld moet worden om welk subject (wie) het gaat en welke rechten het subject heeft voor gebruik van bepaalde systemen."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+</archimate:ApplicationComponent>

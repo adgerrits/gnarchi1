@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicebus component"
+    id="65a44171-ce26-44cb-8cc4-7c685ff8e8eb"
+    documentation="Component voor het routeren, transformeren en eventueel orchestreren van berichten tussen applicaties.">
+  <properties
+      key="Toelichting"
+      value="De component ondersteunt het effectief en efficiënt uitwisselen van berichten tussen applicaties binnen en buiten de organisatie. Het component speelt hierbij de rol van 'makelaar' die bemiddelt tussen de berichtleverancier en de berichtontvanger. Het 'bemiddelen' omvat minimaal het ontvangen en afleveren van het bericht maar kan ook allerlei aanvullende functies omvatten (bijv. tussentijds transformeren van berichten)."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="8c2cf498-380a-4fc1-b8ce-becf802d6371"/>
+</archimate:ApplicationComponent>
