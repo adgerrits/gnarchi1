@@ -19,7 +19,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e80f15d3-d37b-4472-b4d1-c85c44dc869c"
-      targetConnections="6347cf03-1068-47ea-96c4-684d9aaeab6f">
+      targetConnections="534c02e9-7ceb-433c-9c3c-767a0e39fc39">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b1043921-fd55-408c-8f72-15787648467b"
@@ -211,19 +211,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="03da87cc-028c-4284-9456-9bd482a49b57"
       targetConnections="883f01a2-17e8-4b31-9f73-76ad8f9f722a cc13dec8-94d9-4a71-9a53-b717b42d61b3">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6347cf03-1068-47ea-96c4-684d9aaeab6f"
-        source="03da87cc-028c-4284-9456-9bd482a49b57"
-        target="e80f15d3-d37b-4472-b4d1-c85c44dc869c">
-      <bendpoints
-          startX="335"
-          startY="-3"
-          endY="-267"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_227f1e30-c917-441e-8530-3e7c99542def.xml#227f1e30-c917-441e-8530-3e7c99542def"/>
-    </sourceConnections>
     <bounds
         x="337"
         y="108"
@@ -270,6 +257,19 @@
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_91f4d478-d590-49e3-bb66-c9c5f4512107.xml#91f4d478-d590-49e3-bb66-c9c5f4512107"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="534c02e9-7ceb-433c-9c3c-767a0e39fc39"
+        source="723151c3-193a-4a59-acd4-758e600b522a"
+        target="e80f15d3-d37b-4472-b4d1-c85c44dc869c">
+      <bendpoints
+          startX="335"
+          startY="-3"
+          endY="-351"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_db998b9b-94fb-4257-a087-e0f87d62a3c4.xml#db998b9b-94fb-4257-a087-e0f87d62a3c4"/>
     </sourceConnections>
     <bounds
         x="337"
