@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node"
+    id="5d653372-be3b-4ddd-87d9-769bd7f86555"
+    documentation="A node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.&#xD;&#xA;&#xD;&#xA;Nodes are active structure elements that perform technology behavior and execute, store, and process technology objects such as artifacts (or materials, as outlined in Chapter 11). For instance, nodes are used to model application platforms, defined by the TOGAF framework [4] as: “a collection of technology components of hardware and software that provide the services used to support applications”.&#xD;&#xA;&#xD;&#xA;Nodes can be interconnected by paths. A node may be assigned to an artifact to model that the artifact is deployed on the node.&#xD;&#xA;&#xD;&#xA;The name of a node should preferably be a noun. A node may consist of sub-nodes.&#xD;&#xA;&#xD;&#xA;Artifacts deployed on a node may either be drawn inside the node or connected to it with an assignment relationship."/>
